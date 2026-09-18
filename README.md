@@ -1,7 +1,4 @@
-in this project we want to detect some predefined shapes by using computer vision technology.
-we use OpenCV library for development.
-this shapes could be used to guide a drone find its path and target point.
-one of the shape is an arrow which can be used to guide the drone's orientation.
-for example if the arrow is like this -> then the drone should goes right.
-
+The ojective of this project is to detect in real time the direction given by an arrow shape, using computer vision algorithms.
+I used OpenCV library for development.
+Applications could be for drone navigation to guide a drone following a path. 
 
